@@ -1,0 +1,16 @@
+{
+  "name": "svelte5-css-transform",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "z3db0y",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@rsbuild/core": "^1.3.21",
+    "@rsbuild/plugin-svelte": "^1.0.10",
+    "svelte": "^5.33.1"
+  }
+}
